@@ -6,4 +6,8 @@ class Song
     @title
     @artisit
   end
+  
+  def self.artisit
+  @artist.self
+end
 end
