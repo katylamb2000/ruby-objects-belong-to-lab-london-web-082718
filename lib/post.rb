@@ -1,13 +1,13 @@
 class Post
   
-  attr_accessor :title
-  attr_reader :author
+  attr_accessor :title, :author
+ 
   
-  
-def author
-  @@author.self
+def title
+@title
 end
-  
+
+
 def initialize
   @Post
   @@all << self
