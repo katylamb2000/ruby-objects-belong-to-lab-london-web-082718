@@ -1,12 +1,12 @@
 class Song 
   
-  attr_accessor :title, :artisit
+  attr_accessor :title, :artist
   
   def initialize
     @title
-    @artisit
+    @artist
   
-  def self.artisit
+  def self.artist
   @artist.self
 end
 end
