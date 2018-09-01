@@ -8,9 +8,9 @@ def title
 end
 
 
-def initialize
-  @Post
-  @@all << self
+def initialize (name)
+  @author = name
+ 
 end
 
 
