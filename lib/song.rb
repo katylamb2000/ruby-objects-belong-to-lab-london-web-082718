@@ -5,8 +5,6 @@ class Song
   def initialize
     @title
     @artist
-  
-  def self.artist
-  @artist.self
+
 end
 end
