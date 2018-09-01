@@ -2,9 +2,9 @@ class Song
   
   attr_accessor :title, :artisit
   
-  def initialize ()
+  def initialize (artisit)
     @title
-    @artisit
+    @artisit = artisit
   end
   
   def self.artisit
