@@ -1,7 +1,6 @@
-class Author (name)
+class Author 
   
-  @@all = []
-  
+
   attr_accessor :name, :artist
   
   def initialize
