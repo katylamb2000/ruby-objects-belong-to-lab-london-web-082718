@@ -10,10 +10,4 @@ def initialize
   @title
  
 end
-
-
-def self.author
-  @author.self
-end
-
 end
