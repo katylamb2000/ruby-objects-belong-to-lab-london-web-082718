@@ -1,13 +1,10 @@
-class Author 
-  
+class Author
 
-  attr_accessor :name, :artist
-  
+
+  attr_accessor :name,
+
   def initialize
   @Author
-  @Artist 
-  
-  
-end
 
+end
 end
